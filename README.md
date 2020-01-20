@@ -8,20 +8,45 @@
 * [Usage](#usage)
 * [Credits](#credits) 
 
+## General info 
+sdgsdgsdfsdf
+sdfsdfsdf
 
-Things you may want to cover:
+---
+
+## Technologies
+sdsdgdfg
+sdfsdfsdf
+
+## Requirements
+sdfsd
+sdf
+
+## Installation
+SDGSDG
+SDGSDFSDF
+SDFSDF
+
+## Usage 
+sddsdsd
+sdfsdf
+
+## Credits
+The humble developers who built this app:
+
+**Brittney Haselmayer** [LinkedIn](https://www.linkedin.com/in/brittney-haselmayer-b49a31198/) // [Github](https://github.com/brittneyhaselmayer)
+
+and
+
+**Grant Ferowich** [LinkedIn](https://www.linkedin.com/in/gferowich/) // [Github](https://github.com/Clariti23)
 
 * Ruby version
 
 * System dependencies
 
-* Configuration
-
 * Database creation
 
 * Database initialization
-
-* How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
 
