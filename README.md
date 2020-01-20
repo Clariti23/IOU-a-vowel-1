@@ -1,7 +1,14 @@
-# README
+# IOU A Vowel
+====================================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Requirements](#requirements)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits) 
+
 
 Things you may want to cover:
 
