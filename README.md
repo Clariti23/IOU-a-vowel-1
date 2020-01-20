@@ -1,5 +1,4 @@
 # IOU A Vowel
-====================================
 
 ## Table of contents
 * [General info](#general-info)
